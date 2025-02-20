@@ -1,4 +1,8 @@
-## Hi there 👋
+[![Pixlewriter's GitHub stats](https://github-readme-stats.vercel.app/api?username=pixlewriter&theme=ocean_dark)](https://github.com/pixlewriter)
+
+[![Pixlewriter's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pixlewriter&theme=ocean_dark)](https://github.com/pixlewriter)
+
+[![Pixlewriter's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Pixelwriter&theme=ocean_dark)](https://github.com/pixlewriter)
 
 <!--
 **pixlewriter/Pixlewriter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
